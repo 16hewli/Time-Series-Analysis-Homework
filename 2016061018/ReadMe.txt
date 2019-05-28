@@ -1,0 +1,3 @@
+1、本工作使用Python完成
+2、世界月气温时间序列分析.html文件可由浏览器打开，并查阅markdown内容和python代码
+3、世界月气温时间序列分析.ipynb文件可在jupyter notebook 环境下运行
